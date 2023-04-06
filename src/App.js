@@ -17,4 +17,4 @@ import React,{Component} from 'react'
   }
 }
 
-export default App
+export default App;
